@@ -55,6 +55,9 @@
   <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%9A%A9-%EC%8B%A0-071115333/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://solved.ac/profile/robotshin" target="_blank">
+    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=robotshin" alt="Solved.ac Profile" />
+  </a>
 </div>
 
 ###
