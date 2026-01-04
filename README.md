@@ -1,76 +1,196 @@
-<h2 align="left">Shin Juyong / Data Analyst</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimddong23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+<!-- 헤더 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,50:6C63FF,100:00D4AA&height=120&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kimddong23&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=1000&color=3572A5&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D%EA%B0%80+%EC%8B%A0%EC%A3%BC%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4" />
+  </a>
 </div>
 
-<div align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=robotshin" alt="Solved.ac Profile" />
+<br/>
+
+<div align="center">
+  <strong>데이터로 인사이트를 발굴하고, AI로 가치를 창출합니다.</strong>
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="https://media.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif"  />
+---
 
-###
+## 🧑‍💻 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+```yaml
+Name: 신주용 (Shin Juyong)
+Role: Data Analyst & ML Engineer
+Education: 경상국립대학교 제어계측공학
+Location: South Korea 🇰🇷
+Interests: Machine Learning, Deep Learning, RAG, LLM
+Email: robotshin96@gmail.com
+```
+
+<br/>
+
+---
+
+## 🏆 Awards & Competitions
+
+| 대회명 | 수상/성적 | 주최 | 날짜 |
+|:------|:--------:|:----:|:----:|
+| [**국민체육진흥공단 공공데이터 활용 경진대회**](https://www.hankyung.com/article/202512230385i) | 🥇 **대상 (1위)** | KSPO | 2025.12 |
+| **AI NoCode·MCP Hackathon 시즌2** | 🥈 우수상 | 과기정통부 / NIA | 2025.11 |
+| [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **200위 / 1,412팀 (Top 14%)** | Kaggle | - |
+
+> 📈 **Kaggle MABe Challenge**: Public 620등 → Private **200등** (420등 상승!)
+
+<br/>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| 자격증 | 등급 | 발행처 |
+|:------|:----:|:------:|
+| 데이터 분석 준전문가 (ADsP) | 준전문가 | 한국데이터산업진흥원 |
+| KT AICE | Basic | KT |
+| 네이버 클라우드 플랫폼 (NCP) | Associate | 네이버 클라우드 |
+| 인공지능활용능력 | - | 한국인공지능자격센터 |
+
 </div>
 
-###
+<br/>
 
-<div align="left">
+---
+
+## 🎓 Education & Training
+
+<div align="center">
+
+| 기간 | 교육명 | 기관 |
+|:----:|:------|:----:|
+| 2023.07 ~ 2023.08 | LG Aimers 3기 | LG AI Research |
+| 2023.10 ~ 2024.05 | **Upstage AI Lab 1기** | 패스트캠퍼스 |
+| 2024.07 ~ 2024.08 | LG Aimers 5기 | LG AI Research |
+| 2024.10 ~ 2024.12 | LG Aimers AI 실습 교육 | LG AI Research |
+| 2025.06 ~ 2025.12 | **인공지능사관학교 6기** (자연어처리반) | 인공지능산업융합사업단 |
+
+</div>
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+
+**Data & ML**
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
+
+**Database & Infra**
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white"/>
+
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 프로젝트 | 설명 | 수상 | 링크 |
+|:--------|:----|:----:|:----:|
+| **숨어있는 재능을 찾아서** | 청소년 스포츠 재능 발굴·육성 플랫폼 | 🥇 대상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kspo-2025-opendata-contest/Hidden-Talent) |
+| **조항줍줍** | AI NoCode·MCP Hackathon 출품작 | 🥈 우수상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-NoCode-MCP-Hackathon-2/Johang-JoopJoop) |
+| **CRM Copy Generator** | RAG 기반 마케팅 메시지 자동 생성 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-INNOVATION-CHALLENGE-2026/CRM-Copy-Generator) |
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimddong23&theme=nord_dark" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimddong23&theme=nord_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimddong23&theme=nord_dark&utcOffset=9" height="150"/>
+</div>
+
+<br/>
+
+---
+
+## 🏅 Algorithm
+
+<div align="center">
+  <a href="https://solved.ac/profile/robotshin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=robotshin" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+## 🐍 Contribution
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimddong23/kimddong23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimddong23/kimddong23/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kimddong23/kimddong23/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+---
+
+## 📫 Contact
+
+<div align="center">
   <a href="mailto:robotshin96@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/robotshin96@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%9A%A9-%EC%8B%A0-071115333/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://solved.ac/profile/robotshin" target="_blank">
-    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=robotshin" alt="Solved.ac Profile" />
+  <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%9A%A9-%EC%8B%A0-071115333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
 </div>
 
-###
+<br/>
 
-<br clear="both">
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimddong23&count_bg=%233572A5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimddong23/kimddong23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimddong23/kimddong23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kimddong23/kimddong23/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
 
-###
+<!-- 푸터 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,50:6C63FF,100:00D4AA&height=100&section=footer&text=&fontSize=0" width="100%"/>
+</div>
