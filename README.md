@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!%20👋&fontSize=50&fontAlignY=35&desc=I'm%20Juyong,%20Data%20Analyst%20%26%20ML%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20there!&fontSize=45&fontAlignY=35&desc=I'm%20Juyong,%20Data%20Analyst%20and%20ML%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+</div>
 
 <div align="center">
 
@@ -27,13 +29,17 @@ Email: robotshin96@gmail.com
 
 ## 🏆 Awards & Competitions
 
+<div align="center">
+
 | 대회명 | 수상/성적 | 주최 | 날짜 |
 |:------|:--------:|:----:|:----:|
-| [**국민체육진흥공단 공공데이터 활용 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상 (1위)** | 국민체육진흥공단 | 2025.12 |
-| [**AI NoCode·MCP Hackathon 시즌2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥈 우수상 | 과학기술정보통신부 / 한국지능정보사회진흥원 | 2025.11 |
-| [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **200위 / 1,412팀 (Top 14%)** | Kaggle | 2025.12 |
+| [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
+| [**AI NoCode·MCP Hackathon**](https://www.youtube.com/shorts/R958NZzaz28) | 🥈 우수상 | 과기정통부·NIA | 2025.11 |
+| [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Kaggle | 2025.12 |
 
-> 📈 **Kaggle MABe Challenge**: Public 620등 → Private **200등** (420등 상승!)
+</div>
+
+> 📈 **Kaggle MABe**: Public 620등 → Private **200등** (+420↑)
 
 <br/>
 
@@ -175,4 +181,6 @@ Email: robotshin96@gmail.com
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
+</div>
