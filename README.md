@@ -120,6 +120,8 @@ Email: robotshin96@gmail.com
 | **숨어있는 재능을 찾아서** | 청소년 스포츠 재능 발굴·육성 플랫폼 | 🥇 대상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kspo-2025-opendata-contest/Hidden-Talent) |
 | **조항줍줍** | AI NoCode·MCP Hackathon 출품작 | 🥈 우수상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-NoCode-MCP-Hackathon-2/Johang-JoopJoop) |
 | **CRM Copy Generator** | RAG 기반 마케팅 메시지 자동 생성 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-INNOVATION-CHALLENGE-2026/CRM-Copy-Generator) |
+| **마음의 책장** | 학대 피해 아동 심리 치유 AI 동화 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ReadyToWorkNow/maum-chaekjang) |
+| **NEXT FIT** | AI 기반 신입 개발자 취업 준비 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ReadyToWorkNow/NEXT-FIT) |
 
 </div>
 
