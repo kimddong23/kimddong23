@@ -1,18 +1,9 @@
-<!-- 헤더 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,50:6C63FF,100:00D4AA&height=120&section=header&text=&fontSize=0" width="100%"/>
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Hi%20there!%20👋&fontSize=50&fontAlignY=35&desc=I'm%20Juyong,%20Data%20Analyst%20%26%20ML%20Engineer&descSize=20&descAlignY=55&animation=fadeIn)
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=28&duration=3000&pause=1000&color=3572A5&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D%EA%B0%80+%EC%8B%A0%EC%A3%BC%EC%9A%A9%EC%9E%85%EB%8B%88%EB%8B%A4" />
-  </a>
-</div>
 
-<br/>
+  **반갑습니다!** 데이터와 AI에 진심인 신주용입니다 🚀
 
-<div align="center">
-  <strong>데이터로 인사이트를 발굴하고, AI로 가치를 창출합니다.</strong>
 </div>
 
 <br/>
@@ -38,9 +29,9 @@ Email: robotshin96@gmail.com
 
 | 대회명 | 수상/성적 | 주최 | 날짜 |
 |:------|:--------:|:----:|:----:|
-| [**국민체육진흥공단 공공데이터 활용 경진대회**](https://www.hankyung.com/article/202512230385i) | 🥇 **대상 (1위)** | KSPO | 2025.12 |
-| **AI NoCode·MCP Hackathon 시즌2** | 🥈 우수상 | 과기정통부 / NIA | 2025.11 |
-| [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **200위 / 1,412팀 (Top 14%)** | Kaggle | - |
+| [**국민체육진흥공단 공공데이터 활용 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상 (1위)** | 국민체육진흥공단 | 2025.12 |
+| [**AI NoCode·MCP Hackathon 시즌2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥈 우수상 | 과학기술정보통신부 / 한국지능정보사회진흥원 | 2025.11 |
+| [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **200위 / 1,412팀 (Top 14%)** | Kaggle | 2025.12 |
 
 > 📈 **Kaggle MABe Challenge**: Public 620등 → Private **200등** (420등 상승!)
 
@@ -175,22 +166,13 @@ Email: robotshin96@gmail.com
 
 <div align="center">
   <a href="mailto:robotshin96@gmail.com">
-    <img src="https://img.shields.io/badge/robotshin96@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%9A%A9-%EC%8B%A0-071115333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
   </a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimddong23&count_bg=%233572A5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"/>
-</div>
-
-<br/>
-
-<!-- 푸터 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3572A5,50:6C63FF,100:00D4AA&height=100&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
