@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20there!&fontSize=45&fontAlignY=35&desc=I'm%20Juyong,%20Data%20Analyst%20and%20ML%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Hi%20there!&fontSize=45&fontAlignY=35&desc=I'm%20Juyong,%20AI%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ```yaml
 Name: 신주용 (Shin Juyong)
-Role: Data Analyst & ML Engineer
+Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
 Interests: Machine Learning, Deep Learning, RAG, LLM
