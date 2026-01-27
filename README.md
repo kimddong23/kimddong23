@@ -119,6 +119,7 @@ Email: robotshin96@gmail.com
 
 | 프로젝트 | 설명 | 수상 | 링크 |
 |:--------|:----|:----:|:----:|
+| **Prompt Engineering Lab** | 7B 로컬 모델 프롬프트 엔지니어링 연구 (584개 실험) | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/prompt-engineering-lab) |
 | **마음의 책장** | 학대 피해 아동 심리 치유 AI 동화 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ReadyToWorkNow/maum-chaekjang) |
 | **NEXT FIT** | AI 기반 신입 개발자 취업 준비 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ReadyToWorkNow/NEXT-FIT) |
 | **조항줍줍** | AI NoCode·MCP Hackathon 출품작 | 🥈 우수상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-NoCode-MCP-Hackathon-2/Johang-JoopJoop) |
