@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 Name: 신주용 (Shin Juyong)
@@ -27,7 +27,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 🏆 Awards & Competitions
+## Awards & Competitions
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 🎓 Education & Training
+## Education & Training
 
 <div align="center">
 
@@ -83,7 +83,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -135,7 +135,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimddong23&theme=github_dark" width="100%"/>
@@ -150,7 +150,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 🏅 Algorithm
+## Algorithm
 
 <div align="center">
   <a href="https://solved.ac/profile/robotshin">
@@ -162,7 +162,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 📊 3D Contribution
+## 3D Contribution
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
@@ -172,7 +172,7 @@ Email: robotshin96@gmail.com
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
   <a href="mailto:robotshin96@gmail.com">
