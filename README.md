@@ -138,12 +138,12 @@ Email: robotshin96@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimddong23&theme=nord_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimddong23&theme=github_dark" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimddong23&theme=nord_dark" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimddong23&theme=nord_dark&utcOffset=9" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimddong23&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimddong23&theme=github_dark&utcOffset=9" height="150"/>
 </div>
 
 <br/>
