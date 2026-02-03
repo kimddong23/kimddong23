@@ -127,7 +127,7 @@ Email: robotshin96@gmail.com
 | **Safe-Kid** | AI 기반 아동학대 조기 예방 및 지역사회 보호체계 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-Contest-Promote-Childrens-Rights/Safe-Kid/tree/main) |
 | **CRM Copy Generator** | RAG 기반 마케팅 메시지 자동 생성 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-INNOVATION-CHALLENGE-2026/CRM-Copy-Generator) |
 | **Prompt Engineering Lab** | 7B 로컬 모델 프롬프트 엔지니어링 연구 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/prompt-engineering-lab) |
-| **Focus Timer** | 2026 Fast Builderthon 출품작 - XGBoost·MAB 기반 AI 집중 타이머 | 본선 진출 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/2026-AI-HACKATHON-FAST-BUILDERTHON/Focus-Timer) |
+| **Focus Timer** | XGBoost·MAB 기반 개인 맞춤형 AI 집중 타이머 | 본선 진출 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/2026-AI-HACKATHON-FAST-BUILDERTHON/Focus-Timer) |
 
 </div>
 
