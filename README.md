@@ -36,7 +36,7 @@ Email: robotshin96@gmail.com
 | [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**AI NoCode·MCP Hackathon**](https://www.youtube.com/shorts/R958NZzaz28) | 🥈 우수상 | 과학기술정보통신부 | 2025.11 |
 | [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Kaggle | 2025.12 |
-| [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 🏅 본선 진출 | 패스트캠퍼스 | 2026.01 |
+| [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
 
 </div>
 
@@ -127,7 +127,7 @@ Email: robotshin96@gmail.com
 | **Safe-Kid** | AI 기반 아동학대 조기 예방 및 지역사회 보호체계 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-Contest-Promote-Childrens-Rights/Safe-Kid/tree/main) |
 | **CRM Copy Generator** | RAG 기반 마케팅 메시지 자동 생성 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-INNOVATION-CHALLENGE-2026/CRM-Copy-Generator) |
 | **Prompt Engineering Lab** | 7B 로컬 모델 프롬프트 엔지니어링 연구 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/prompt-engineering-lab) |
-| **Focus Timer** | XGBoost·MAB 기반 개인 맞춤형 AI 집중 타이머 | 🏅 본선 진출 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/2026-AI-HACKATHON-FAST-BUILDERTHON/Focus-Timer) |
+| **Focus Timer** | XGBoost·MAB 기반 개인 맞춤형 AI 집중 타이머 | 본선 진출 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/2026-AI-HACKATHON-FAST-BUILDERTHON/Focus-Timer) |
 
 </div>
 
