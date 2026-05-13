@@ -27,6 +27,20 @@ Email: robotshin96@gmail.com
 
 ---
 
+## Experience
+
+<div align="center">
+
+| 기간 | 회사 | 부서 | 직무 |
+|:----:|:----:|:----:|:----:|
+| 2026.03 ~ 재직 중 | **주식회사 인프라엑스** | 개발팀 | AI 연구원 |
+
+</div>
+
+<br/>
+
+---
+
 ## Awards & Competitions
 
 <div align="center">
