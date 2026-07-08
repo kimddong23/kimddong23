@@ -185,15 +185,8 @@ Email: robotshin96@gmail.com
 <div align="center">
 
   <a href="https://www.kaggle.com/kimdoong">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/kimdoong" width="100%"/>
-  </a>
-
-  <a href="https://www.kaggle.com/kimdoong">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimdoong/competition"/>
   </a>
-
-  <br/>
-  <img src="https://img.shields.io/badge/Kaggle-Competitions_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 
 </div>
 
