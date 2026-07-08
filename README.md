@@ -33,7 +33,7 @@ Email: robotshin96@gmail.com
 
 | 기간 | 회사 | 부서 | 직무 |
 |:----:|:----:|:----:|:----:|
-| 2026.03 ~ 재직 중 | **주식회사 인프라엑스** | 개발팀 | AI 연구원 |
+| 2026.03 ~ 2026.06 | **주식회사 인프라엑스** | 개발팀 | AI 연구원 |
 
 </div>
 
@@ -52,12 +52,15 @@ Email: robotshin96@gmail.com
 | [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Kaggle | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
 | [**Kaggle: CAFA 6 Protein Function Prediction**](./assets/cafa6-silver-medal.png) | 🥈 **Silver Medal** (112/2259) | Kaggle | 2026.06 |
+| [**Kaggle: Orbit Wars**](./assets/orbit-wars-silver-medal.png) | 🥈 **Silver Medal** (211/4729) | Kaggle | 2026.07 |
 
 </div>
 
 > 📈 **Kaggle MABe**: Public 620등 → Private **200등** (+420↑)
 >
 > 🥈 **Kaggle CAFA 6**: 2,259팀 중 **112위** — Competition Silver Medalist (클릭 시 인증서)
+>
+> 🥈 **Kaggle Orbit Wars**: 4,729팀 중 **211위** — Competition Silver Medalist (클릭 시 인증서)
 
 <br/>
 
