@@ -195,6 +195,18 @@ Email: robotshin96@gmail.com
 
 ---
 
+## Algorithm
+
+<div align="center">
+  <a href="https://solved.ac/profile/robotshin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=robotshin" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
@@ -204,18 +216,6 @@ Email: robotshin96@gmail.com
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimddong23&theme=github_dark" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimddong23&theme=github_dark&utcOffset=9" height="150"/>
-</div>
-
-<br/>
-
----
-
-## Algorithm
-
-<div align="center">
-  <a href="https://solved.ac/profile/robotshin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=robotshin" />
-  </a>
 </div>
 
 <br/>
