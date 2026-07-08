@@ -51,8 +51,8 @@ Email: robotshin96@gmail.com
 | [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Kaggle | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
-| [**Kaggle: CAFA 6 Protein Function Prediction**](./assets/cafa6-silver-medal.png) | 🥈 **Silver Medal** (112/2259) | Kaggle | 2026.06 |
-| [**Kaggle: Orbit Wars**](./assets/orbit-wars-silver-medal.png) | 🥈 **Silver Medal** (211/4729) | Kaggle | 2026.07 |
+| [**Kaggle: CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [🥈 **Silver Medal**](./assets/cafa6-silver-medal.png) (112/2259) | Kaggle | 2026.06 |
+| [**Kaggle: Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [🥈 **Silver Medal**](./assets/orbit-wars-silver-medal.png) (211/4729) | Kaggle | 2026.07 |
 
 </div>
 
