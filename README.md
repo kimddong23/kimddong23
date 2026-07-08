@@ -67,6 +67,32 @@ Email: robotshin96@gmail.com
 
 ---
 
+## Kaggle
+
+<div align="center">
+
+  <a href="https://www.kaggle.com/kimdoong">
+    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimdoong/competition"/>
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+## Algorithm
+
+<div align="center">
+  <a href="https://solved.ac/profile/robotshin">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=robotshin" />
+  </a>
+</div>
+
+<br/>
+
+---
+
 ## Certifications
 
 <div align="center">
@@ -175,32 +201,6 @@ Email: robotshin96@gmail.com
 | **Prompt Engineering Lab** | 7B 로컬 모델 프롬프트 엔지니어링 연구 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/prompt-engineering-lab) |
 | **Focus Timer** | XGBoost·MAB 기반 개인 맞춤형 AI 집중 타이머 | 본선 진출 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/2026-AI-HACKATHON-FAST-BUILDERTHON/Focus-Timer) |
 
-</div>
-
-<br/>
-
----
-
-## Kaggle
-
-<div align="center">
-
-  <a href="https://www.kaggle.com/kimdoong">
-    <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/kimdoong/competition"/>
-  </a>
-
-</div>
-
-<br/>
-
----
-
-## Algorithm
-
-<div align="center">
-  <a href="https://solved.ac/profile/robotshin">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=robotshin" />
-  </a>
 </div>
 
 <br/>
