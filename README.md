@@ -19,6 +19,7 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
+Kaggle: Competitions Expert 🥈x2
 Interests: LLM & Generative AI, RAG Systems, AI Agent Development, Prompt Engineering
 Email: robotshin96@gmail.com
 ```
