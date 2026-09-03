@@ -19,7 +19,7 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
-Kaggle: Competitions Expert 🥈x2
+Kaggle: Competitions Expert 🥈x2 🥉x1
 Interests: LLM & Generative AI, RAG Systems, AI Agent Development, Prompt Engineering
 Email: robotshin96@gmail.com
 ```
@@ -54,6 +54,7 @@ Email: robotshin96@gmail.com
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
 | [**Kaggle: CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [🥈 **Silver Medal**](./assets/cafa6-silver-medal.png) (112/2259) | Kaggle | 2026.06 |
 | [**Kaggle: Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [🥈 **Silver Medal**](./assets/orbit-wars-silver-medal.png) (211/4729) | Kaggle | 2026.07 |
+| [**Kaggle: AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [🥉 **Bronze Medal**](./assets/ai-agent-security-bronze-medal.png) (218/4186) | Kaggle | 2026.09 |
 
 </div>
 
@@ -62,6 +63,8 @@ Email: robotshin96@gmail.com
 > 🥈 **Kaggle CAFA 6**: 2,259팀 중 **112위** — Competition Silver Medalist (클릭 시 인증서)
 >
 > 🥈 **Kaggle Orbit Wars**: 4,729팀 중 **211위** — Competition Silver Medalist (클릭 시 인증서)
+>
+> 🥉 **Kaggle AI Agent Security**: 4,186팀 중 **218위** (Public 380등 → Private 218등, +162↑) — Competition Bronze Medalist (클릭 시 인증서)
 
 <br/>
 
