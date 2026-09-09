@@ -19,7 +19,7 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
-Awards: 🥇 대상 (국민체육진흥공단) · 🥈 우수상 (과학기술정보통신부)
+Awards: 🥇 대상 (KSPO 공공데이터 경진대회) · 🥈 우수상 (AI NoCode·MCP Hackathon)
 Kaggle: Competitions Expert 🥈x3 🥉x1
 Interests: LLM & Generative AI, RAG Systems, AI Agent Development, Prompt Engineering
 Email: robotshin96@gmail.com
@@ -131,6 +131,7 @@ Email: robotshin96@gmail.com
 | 2024.07 ~ 2024.08 | LG Aimers 5기 | LG AI Research |
 | 2024.10 ~ 2024.12 | LG Aimers AI 실습 교육 | LG AI Research |
 | 2025.06 ~ 2025.12 | **인공지능사관학교 6기** (자연어처리반) | 인공지능산업융합사업단 |
+| 2026.07 ~ 진행중 | **SKALA 4기** (SK AI Learning Academy) | SK AX |
 
 </div>
 
