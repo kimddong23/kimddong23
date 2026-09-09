@@ -19,7 +19,8 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
-Kaggle: Competitions Expert 🥈x2 🥉x1
+Awards: 🥇 대상 (국민체육진흥공단) · 🥈 우수상 (과학기술정보통신부)
+Kaggle: Competitions Expert 🥈x3 🥉x1
 Interests: LLM & Generative AI, RAG Systems, AI Agent Development, Prompt Engineering
 Email: robotshin96@gmail.com
 ```
@@ -42,35 +43,23 @@ Email: robotshin96@gmail.com
 
 ---
 
-## Awards & Competitions
+## Awards & Hackathons
 
 <div align="center">
 
-| 대회명 | 수상/성적 | 주최 | 날짜 |
-|:------|:--------:|:----:|:----:|
+| 대회명 | 수상 | 주최 | 날짜 |
+|:------|:----:|:----:|:----:|
 | [**AI NoCode·MCP Hackathon**](https://www.youtube.com/shorts/R958NZzaz28) | 🥈 우수상 | 과학기술정보통신부 | 2025.11 |
 | [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
-| [**Kaggle: MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Kaggle | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
-| [**Kaggle: CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [🥈 **Silver Medal**](./assets/cafa6-silver-medal.png) (112/2259) | Kaggle | 2026.06 |
-| [**Kaggle: Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [🥈 **Silver Medal**](./assets/orbit-wars-silver-medal.png) (211/4729) | Kaggle | 2026.07 |
-| [**Kaggle: AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [🥉 **Bronze Medal**](./assets/ai-agent-security-bronze-medal.png) (218/4186) | Kaggle | 2026.09 |
 
 </div>
-
-> 📈 **Kaggle MABe**: Public 620등 → Private **200등** (+420↑)
->
-> 🥈 **Kaggle CAFA 6**: 2,259팀 중 **112위** — Competition Silver Medalist (클릭 시 인증서)
->
-> 🥈 **Kaggle Orbit Wars**: 4,729팀 중 **211위** — Competition Silver Medalist (클릭 시 인증서)
->
-> 🥉 **Kaggle AI Agent Security**: 4,186팀 중 **218위** (Public 380등 → Private 218등, +162↑) — Competition Bronze Medalist (클릭 시 인증서)
 
 <br/>
 
 ---
 
-## Kaggle
+## Kaggle Competitions
 
 <div align="center">
 
@@ -79,6 +68,22 @@ Email: robotshin96@gmail.com
   </a>
 
 </div>
+
+<div align="center">
+
+| 대회 | 성적 | 주최 | 날짜 |
+|:----|:----:|:----:|:----:|
+| [**MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Cornell University | 2025.12 |
+| [**CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/cafa6-silver-medal.png) (112/2259, Top 5%) | Iowa State University | 2026.06 |
+| [**Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/orbit-wars-silver-medal.png) (211/4729, Top 5%) | Kaggle (Google) | 2026.07 |
+| [**AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [<img src="./assets/medal-bronze.png" width="14"/> **Bronze**](./assets/ai-agent-security-bronze-medal.png) (218/4186, Top 6%) | OpenAI · Google · IEEE | 2026.09 |
+| [**PTCG AI Battle Challenge**](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/pokemon-tcg-silver-medal.png) (312/6807, Top 5%) | The Pokémon Company | 2026.09 |
+
+</div>
+
+> 🏅 메달 클릭 시 Kaggle 인증서로 이동합니다.
+>
+> 📈 **Public → Private 순위 상승**: MABe 620등 → **200등** (+420↑) · AI Agent Security 380등 → **218등** (+162↑)
 
 <br/>
 
