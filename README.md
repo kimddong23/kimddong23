@@ -127,7 +127,7 @@ Email: robotshin96@gmail.com
 | 기간 | 교육명 | 기관 |
 |:----:|:------|:----:|
 | 2023.07 ~ 2023.08 | LG Aimers 3기 | LG AI Research |
-| 2023.10 ~ 2024.05 | **Upstage AI Lab 1기** | 패스트캠퍼스 |
+| 2023.10 ~ 2024.05 | **Upstage AI Lab 1기** | Upstage · 패스트캠퍼스 |
 | 2024.07 ~ 2024.08 | LG Aimers 5기 | LG AI Research |
 | 2024.10 ~ 2024.12 | LG Aimers AI 실습 교육 | LG AI Research |
 | 2025.06 ~ 2025.12 | **인공지능사관학교 6기** (자연어처리반) | 인공지능산업융합사업단 |
@@ -207,9 +207,10 @@ Email: robotshin96@gmail.com
 | **조항줍줍** | AI NoCode·MCP Hackathon 시즌 2 출품작 | 🥉 우수상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-NoCode-MCP-Hackathon-2/Johang-JoopJoop) |
 | **숨어있는 재능을 찾아서** | 청소년 스포츠 재능 발굴·육성 플랫폼 | 🥇 대상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kspo-2025-opendata-contest/Hidden-Talent) |
 | **Safe-Kid** | AI 기반 아동학대 조기 예방 및 지역사회 보호체계 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-Contest-Promote-Childrens-Rights/Safe-Kid/tree/main) |
-| **CRM Copy Generator** | RAG 기반 마케팅 메시지 자동 생성 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-INNOVATION-CHALLENGE-2026/CRM-Copy-Generator) |
-| **Prompt Engineering Lab** | 7B 로컬 모델 프롬프트 엔지니어링 연구 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/prompt-engineering-lab) |
 | **Focus Timer** | XGBoost·MAB 기반 개인 맞춤형 AI 집중 타이머 | 본선 진출 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/2026-AI-HACKATHON-FAST-BUILDERTHON/Focus-Timer) |
+| **런치 배틀** | Spring Boot 기반 사내 점심 선정 서비스 · BFS 최단 경로 탐색 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/skala-backend-lunch-battle) |
+| **LearnNexus HRD** | MSA 기반 기업 교육 기획·매칭 통합 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/SKALA-MSA-CAPSTONE) |
+| **ARGUS** | 금융상품 판매 리스크 사전검증 AI 컴플라이언스 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/skala-mini-project) |
 
 </div>
 
