@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  **반갑습니다!** 데이터와 AI에 진심인 신주용입니다 🚀
+  **반갑습니다!** 데이터와 AI에 진심인 신주용입니다 🙇
 
 </div>
 
@@ -19,9 +19,9 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
-Awards: 🥇 대상 (KSPO 공공데이터 경진대회) · 🥈 우수상 (AI NoCode·MCP Hackathon)
+Awards: 🥇 대상 (KSPO 공공데이터 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2)
 Kaggle: Competitions Expert 🥈x3 🥉x1
-Interests: LLM & Generative AI, RAG Systems, AI Agent Development, Prompt Engineering
+Interests: Data Analysis, ML Modeling & AI Agents, LLM & Generative AI, AI Service Development, Workflow Automation
 Email: robotshin96@gmail.com
 ```
 
@@ -47,9 +47,9 @@ Email: robotshin96@gmail.com
 
 <div align="center">
 
-| 대회명 | 수상 | 주최 | 날짜 |
+| 대회명 | 수상 | 주최/주관 | 날짜 |
 |:------|:----:|:----:|:----:|
-| [**AI NoCode·MCP Hackathon**](https://www.youtube.com/shorts/R958NZzaz28) | 🥈 우수상 | 과학기술정보통신부 | 2025.11 |
+| [**AI NoCode·MCP Hackathon 시즌 2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥉 우수상 | 과학기술정보통신부 / NIA | 2025.11 |
 | [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
 
@@ -81,7 +81,7 @@ Email: robotshin96@gmail.com
 
 </div>
 
-> 🏅 메달 클릭 시 Kaggle 인증서로 이동합니다.
+> 메달 클릭 시 Kaggle 인증서로 이동합니다.
 >
 > 📈 **Public → Private 순위 상승**: MABe 620등 → **200등** (+420↑) · AI Agent Security 380등 → **218등** (+162↑)
 
@@ -131,7 +131,7 @@ Email: robotshin96@gmail.com
 | 2024.07 ~ 2024.08 | LG Aimers 5기 | LG AI Research |
 | 2024.10 ~ 2024.12 | LG Aimers AI 실습 교육 | LG AI Research |
 | 2025.06 ~ 2025.12 | **인공지능사관학교 6기** (자연어처리반) | 인공지능산업융합사업단 |
-| 2026.07 ~ 진행중 | **SKALA 4기** (SK AI Learning Academy) | SK AX |
+| 2026.07 ~ 진행중 | **SKALA 4기** (SK그룹 채용연계 AI 과정) | SK AX |
 
 </div>
 
@@ -154,6 +154,7 @@ Email: robotshin96@gmail.com
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=LangChain&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-4B5563?style=flat-square&logoColor=white"/>
 
@@ -203,7 +204,7 @@ Email: robotshin96@gmail.com
 |:--------|:----|:----:|:----:|
 | **마음의 책장** | 학대 피해 아동 심리 치유 AI 동화 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ReadyToWorkNow/maum-chaekjang) |
 | **NEXT FIT** | AI 기반 신입 개발자 취업 준비 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/ReadyToWorkNow/NEXT-FIT) |
-| **조항줍줍** | AI NoCode·MCP Hackathon 출품작 | 🥈 우수상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-NoCode-MCP-Hackathon-2/Johang-JoopJoop) |
+| **조항줍줍** | AI NoCode·MCP Hackathon 시즌 2 출품작 | 🥉 우수상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-NoCode-MCP-Hackathon-2/Johang-JoopJoop) |
 | **숨어있는 재능을 찾아서** | 청소년 스포츠 재능 발굴·육성 플랫폼 | 🥇 대상 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kspo-2025-opendata-contest/Hidden-Talent) |
 | **Safe-Kid** | AI 기반 아동학대 조기 예방 및 지역사회 보호체계 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-Contest-Promote-Childrens-Rights/Safe-Kid/tree/main) |
 | **CRM Copy Generator** | RAG 기반 마케팅 메시지 자동 생성 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AI-INNOVATION-CHALLENGE-2026/CRM-Copy-Generator) |
