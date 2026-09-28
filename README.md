@@ -6,6 +6,8 @@
 
   **반갑습니다!** 데이터와 AI에 진심인 신주용입니다 🙇
 
+  <a href="https://shinjuyong-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shinjuyong--portfolio.vercel.app-2349C8?style=flat-square&logo=vercel&logoColor=white"/></a>
+
 </div>
 
 <br/>
@@ -23,6 +25,7 @@ Awards: 🥇 대상 (KSPO 공공데이터 경진대회) · 🥉 우수상 (AI No
 Kaggle: Competitions Expert 🥈x3 🥉x1
 Interests: Data Analysis, ML Modeling & AI Agents, LLM & Generative AI, AI Service Development, Workflow Automation
 Email: robotshin96@gmail.com
+Portfolio: https://shinjuyong-portfolio.vercel.app
 ```
 
 <br/>
