@@ -221,10 +221,14 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 
 ---
 
-## 3D Contribution
+## Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimddong23/kimddong23/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kimddong23/kimddong23/pacman-output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kimddong23/kimddong23/pacman-output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
