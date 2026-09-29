@@ -76,7 +76,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 
 | 대회 | 성적 | 주최 | 날짜 |
 |:----|:----|:----:|:----:|
-| [**MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14.2%** (200/1412) | Cornell University | 2025.12 |
+| [**MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14.2%** (200/1412, 3인 팀) | Cornell University | 2025.12 |
 | [**CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/cafa6-silver-medal.png) (112/2259, Top 5.0%) | Iowa State University | 2026.06 |
 | [**Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/orbit-wars-silver-medal.png) (211/4729, Top 4.5%) | Google | 2026.07 |
 | [**AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [<img src="./assets/medal-bronze.png" width="14"/> **Bronze**](./assets/ai-agent-security-bronze-medal.png) (218/4186, Top 5.2%) | OpenAI · Google · IEEE | 2026.09 |
