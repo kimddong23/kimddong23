@@ -21,7 +21,7 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
-Awards: 🥇 대상 (KSPO 공공데이터 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2)
+Awards: 🥇 대상 (2025 국민체육진흥공단 공공데이터 활용 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2)
 Kaggle: Competitions Expert 🥈x3 🥉x1
 Interests: Data Analysis, ML Modeling & AI Agents, LLM & Generative AI, AI Service Development, Workflow Automation
 Email: robotshin96@gmail.com
@@ -53,7 +53,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | 대회명 | 수상 | 주최/주관 | 날짜 |
 |:------|:----:|:----:|:----:|
 | [**AI NoCode·MCP Hackathon 시즌 2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥉 우수상 | 과학기술정보통신부 / 한국지능정보사회진흥원(NIA) | 2025.11 |
-| [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
+| [**2025 국민체육진흥공단 공공데이터 활용 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
 
 </div>
@@ -112,8 +112,8 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 |:------|:----:|:------:|
 | 데이터 분석 준전문가 (ADsP) | 준전문가 | 한국데이터산업진흥원 |
 | KT AICE | Basic | KT |
-| 네이버 클라우드 플랫폼 (NCP) | Associate | 네이버 클라우드 |
-| 인공지능활용능력 | - | 한국인공지능자격센터 |
+| 네이버 클라우드 플랫폼 (NCP) | Certified Associate (NCA) | 네이버 클라우드 |
+| 인공지능활용능력 | - | 한국인공지능협회 |
 | 정보처리산업기사 | 필기 | 한국산업인력공단 |
 | 정보처리기사 | 필기 | 한국산업인력공단 |
 
@@ -132,8 +132,8 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | 2023.07 ~ 2023.08 | LG Aimers 3기 | LG AI Research |
 | 2023.10 ~ 2024.05 | **Upstage AI Lab 1기** | Upstage · 패스트캠퍼스 |
 | 2024.07 ~ 2024.08 | LG Aimers 5기 | LG AI Research |
-| 2024.10 ~ 2024.12 | LG Aimers AI 실습 교육 | LG AI Research |
-| 2025.06 ~ 2025.12 | **인공지능사관학교 6기** (자연어처리반) | 인공지능산업융합사업단 |
+| 2024.10 ~ 2024.12 | LG Aimers 5기 AI 실습 교육 | LG AI Research |
+| 2025.06 ~ 2025.12 | **광주 인공지능사관학교 6기** (자연어처리반) | 인공지능산업융합사업단 |
 | 2026.07 ~ 진행중 | **SKALA 4기** (SK그룹 채용연계 AI 과정) | SK AX |
 
 </div>
