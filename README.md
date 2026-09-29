@@ -75,7 +75,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 <div align="center">
 
 | 대회 | 성적 | 주최 | 날짜 |
-|:----|:----:|:----:|:----:|
+|:----|:----|:----:|:----:|
 | [**MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Cornell University | 2025.12 |
 | [**CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/cafa6-silver-medal.png) (112/2259, Top 5%) | Iowa State University | 2026.06 |
 | [**Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/orbit-wars-silver-medal.png) (211/4729, Top 5%) | Kaggle (Google) | 2026.07 |
