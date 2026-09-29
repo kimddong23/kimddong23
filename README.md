@@ -38,7 +38,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 
 | 기간 | 회사 | 부서 | 직무 |
 |:----:|:----:|:----:|:----:|
-| 2026.03 ~ 2026.06 | **주식회사 인프라엑스** | 개발팀 | AI 연구원 |
+| 2026.03 ~ 2026.06 | **주식회사 인프라엑스** | 개발팀 | AI 연구원 (인턴) |
 
 </div>
 
@@ -52,7 +52,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 
 | 대회명 | 수상 | 주최/주관 | 날짜 |
 |:------|:----:|:----:|:----:|
-| [**AI NoCode·MCP Hackathon 시즌 2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥉 우수상 | 과학기술정보통신부 / NIA | 2025.11 |
+| [**AI NoCode·MCP Hackathon 시즌 2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥉 우수상 | 과학기술정보통신부 / 한국지능정보사회진흥원(NIA) | 2025.11 |
 | [**KSPO 공공데이터 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
 
@@ -76,11 +76,11 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 
 | 대회 | 성적 | 주최 | 날짜 |
 |:----|:----|:----:|:----:|
-| [**MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14%** (200/1412) | Cornell University | 2025.12 |
-| [**CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/cafa6-silver-medal.png) (112/2259, Top 5%) | Iowa State University | 2026.06 |
-| [**Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/orbit-wars-silver-medal.png) (211/4729, Top 5%) | Kaggle (Google) | 2026.07 |
-| [**AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [<img src="./assets/medal-bronze.png" width="14"/> **Bronze**](./assets/ai-agent-security-bronze-medal.png) (218/4186, Top 6%) | OpenAI · Google · IEEE | 2026.09 |
-| [**PTCG AI Battle Challenge**](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/pokemon-tcg-silver-medal.png) (312/6807, Top 5%) | The Pokémon Company | 2026.09 |
+| [**MABe Challenge**](https://www.kaggle.com/competitions/MABe-mouse-behavior-detection) | **Top 14.2%** (200/1412) | Cornell University | 2025.12 |
+| [**CAFA 6 Protein Function Prediction**](https://www.kaggle.com/competitions/cafa-6-protein-function-prediction) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/cafa6-silver-medal.png) (112/2259, Top 5.0%) | Iowa State University | 2026.06 |
+| [**Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/orbit-wars-silver-medal.png) (211/4729, Top 4.5%) | Google | 2026.07 |
+| [**AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [<img src="./assets/medal-bronze.png" width="14"/> **Bronze**](./assets/ai-agent-security-bronze-medal.png) (218/4186, Top 5.2%) | OpenAI · Google · IEEE | 2026.09 |
+| [**PTCG AI Battle Challenge**](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/pokemon-tcg-silver-medal.png) (312/6807, Top 4.6%) | The Pokémon Company | 2026.09 |
 
 </div>
 
