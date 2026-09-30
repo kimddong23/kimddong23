@@ -258,9 +258,6 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
   <a href="mailto:robotshin96@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/%EC%A3%BC%EC%9A%A9-%EC%8B%A0-071115333/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
 </div>
 
 <br/>
