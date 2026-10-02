@@ -22,7 +22,7 @@ Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
 Awards: 🥇 대상 (2025 국민체육진흥공단 공공데이터 활용 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2)
-Kaggle: Competitions Expert 🥈x3 🥉x1
+Kaggle: Competitions Expert 🥈x3 🥉x2
 Interests: Data Analysis, ML Modeling & AI Agents, LLM & Generative AI, AI Service Development, Workflow Automation
 Email: robotshin96@gmail.com
 Portfolio: https://shinjuyong-portfolio.vercel.app
@@ -81,6 +81,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | [**Orbit Wars**](https://www.kaggle.com/competitions/orbit-wars) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/orbit-wars-silver-medal.png) (211/4729, Top 4.5%) | Google | 2026.07 |
 | [**AI Agent Security**](https://www.kaggle.com/competitions/ai-agent-security-multi-step-tool-attacks) | [<img src="./assets/medal-bronze.png" width="14"/> **Bronze**](./assets/ai-agent-security-bronze-medal.png) (218/4186, Top 5.2%) | OpenAI · Google · IEEE | 2026.09 |
 | [**PTCG AI Battle Challenge**](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) | [<img src="./assets/medal-silver.png" width="14"/> **Silver**](./assets/pokemon-tcg-silver-medal.png) (312/6807, Top 4.6%) | The Pokémon Company | 2026.09 |
+| [**Biohub - Cell Tracking During Development**](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development) | [<img src="./assets/medal-bronze.png" width="14"/> **Bronze**](./assets/biohub-cell-tracking-bronze-medal.png) (347/3947, Top 8.8%) | Biohub SF | 2026.09 |
 
 </div>
 
