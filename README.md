@@ -56,6 +56,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | [**AI NoCode·MCP Hackathon 시즌 2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥉 우수상 | 과학기술정보통신부 / 한국지능정보사회진흥원(NIA) | 2025.11 |
 | [**2025 국민체육진흥공단 공공데이터 활용 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
+| [**2026 AI Blockchain Challenge in Daegu**](https://www.im-challenge.com/) | 본선 진출 (진행 중) | iM뱅크 / 대구디지털혁신진흥원 | 2026.09 |
 
 </div>
 
