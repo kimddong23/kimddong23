@@ -115,6 +115,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | KT AICE | Basic | KT |
 | 네이버 클라우드 플랫폼 (NCP) | Certified Associate (NCA) | 네이버 클라우드 |
 | 인공지능활용능력 | - | 한국인공지능협회 |
+| TOEIC Speaking | IH (150점) | ETS |
 | 정보처리산업기사 | 필기 | 한국산업인력공단 |
 | 정보처리기사 | 필기 | 한국산업인력공단 |
 
