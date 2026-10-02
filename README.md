@@ -23,6 +23,7 @@ Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
 Awards: 🥇 대상 (2025 국민체육진흥공단 공공데이터 활용 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2)
 Kaggle: Competitions Expert 🥈x3 🥉x2
+Language: TOEIC Speaking IH (150점)
 Interests: Data Analysis, ML Modeling & AI Agents, LLM & Generative AI, AI Service Development, Workflow Automation
 Email: robotshin96@gmail.com
 Portfolio: https://shinjuyong-portfolio.vercel.app
@@ -115,9 +116,22 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | KT AICE | Basic | KT |
 | 네이버 클라우드 플랫폼 (NCP) | Certified Associate (NCA) | 네이버 클라우드 |
 | 인공지능활용능력 | - | 한국인공지능협회 |
-| TOEIC Speaking | IH (150점) · 2028.09까지 유효 | ETS |
 | 정보처리산업기사 | 필기 | 한국산업인력공단 |
 | 정보처리기사 | 필기 | 한국산업인력공단 |
+
+</div>
+
+<br/>
+
+---
+
+## Language
+
+<div align="center">
+
+| 시험 | 등급 | 유효기간 | 발행처 |
+|:------|:----:|:----:|:------:|
+| TOEIC Speaking | IH (150점) | 2028.09까지 | ETS |
 
 </div>
 
