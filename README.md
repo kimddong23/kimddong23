@@ -21,7 +21,7 @@ Name: 신주용 (Shin Juyong)
 Role: AI Engineer
 Education: 경상국립대학교 제어계측공학
 Location: South Korea 🇰🇷
-Awards: 🥇 대상 (2025 국민체육진흥공단 공공데이터 활용 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2)
+Awards: 🥇 대상 (2025 국민체육진흥공단 공공데이터 활용 경진대회) · 🥉 우수상 (AI NoCode·MCP Hackathon 시즌 2) · 🥉 우수상 (2026 관광데이터 활용 공모전)
 Kaggle: Competitions Expert 🥈x3 🥉x3
 Language: TOEIC Speaking IH (150점)
 Interests: Data Analysis, ML Modeling & AI Agents, LLM & Generative AI, AI Service Development, Workflow Automation
@@ -56,7 +56,8 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | [**AI NoCode·MCP Hackathon 시즌 2**](https://www.youtube.com/shorts/R958NZzaz28) | 🥉 우수상 | 과학기술정보통신부 / 한국지능정보사회진흥원(NIA) | 2025.11 |
 | [**2025 국민체육진흥공단 공공데이터 활용 경진대회**](https://m.sports.naver.com/general/article/311/0001955961) | 🥇 **대상** | 국민체육진흥공단 | 2025.12 |
 | [**2026 Fast Builderthon**](https://fastcampus.co.kr/builderthon2026) | 본선 진출 | 패스트캠퍼스 | 2026.01 |
-| [**2026 AI Blockchain Challenge in Daegu**](https://www.im-challenge.com/) | 본선 진출 (진행 중) | iM뱅크 / 대구디지털혁신진흥원 | 2026.09 |
+| [**2026 AI Blockchain Challenge in Daegu**](https://www.im-challenge.com/) | 본선 진출 | iM뱅크 / 대구디지털혁신진흥원 | 2026.09 |
+| [**2026 관광데이터 활용 공모전** (웹·앱 구현 부문)](https://modooitgil.onrender.com) | 🥉 우수상<br/>(성균관대학교 AI중심대학사업단장상) | 한국관광공사 | 2026.10 |
 
 </div>
 
@@ -249,6 +250,7 @@ Portfolio: https://shinjuyong-portfolio.vercel.app
 | **런치 배틀** | Spring Boot 기반 사내 점심 선정 서비스 · BFS 최단 경로 탐색 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/skala-backend-lunch-battle) |
 | **LearnNexus HRD** | MSA 기반 기업 교육 기획·매칭 통합 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/SKALA-MSA-CAPSTONE) |
 | **ARGUS** | 금융상품 판매 리스크 사전검증 AI 컴플라이언스 플랫폼 | - | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/kimddong23/skala-mini-project) |
+| **모두잇길** | 관광약자 맞춤 무장애 여행 일정 플래너 | 🥉 우수상 | [![Service](https://img.shields.io/badge/Service-46E3B7?style=flat-square&logo=render&logoColor=black)](https://modooitgil.onrender.com) |
 
 </div>
 
